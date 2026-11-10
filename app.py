@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configuração da página
 st.set_page_config(
-    page_title="CapivaraBot - Serra da Capivara",
+    page_title=" Serra da Capivara",
     page_icon="🦫",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -14,7 +14,7 @@ st.markdown("""
     /* Fundo Escuro Principal */
     .stApp {
         background-color: #0B0F17;
-        color: #E2E8F0;
+        color: #BRANCO;
     }
     
     /* Cabeçalho / Título CapivaraBot em Destaque */
